@@ -1,2 +1,2 @@
-# C-learning
+# C++-learning
 Learning c++

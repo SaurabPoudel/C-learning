@@ -1,6 +1,13 @@
 #include <iostream>
 using namespace std;
-
+/*
+for 5
+A B C D E 
+A B C D E
+A B C D E
+A B C D E
+A B C D E 
+*/
 int main(){
     int n;
     cout << "Enter a number: "<<endl;
